@@ -1,0 +1,7 @@
+nessa aula apredemos a criar um repositorio 
+configurar nosso email para aparecer nos nossos commites
+apredemos alguns comandos nessa aula:
+git init - para começar o versonamento em uma local
+git status - ver quais arquivos tão na staging area ou não 
+git commit - criar um checkpoint 
+git log - mostra todos os commits
