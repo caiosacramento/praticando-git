@@ -1,0 +1,4 @@
+nessa aula aprendemos sobre branches 
+como fazer uma branch com o comando git branch <nome_da_branch>
+como mudar de branch com o git checkout <nome_da_branch>
+e como fazer um merge da merge na main
